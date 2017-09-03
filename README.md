@@ -232,6 +232,9 @@ A curated list of podcasts we like to listen to.
 
 * [devPod](http://devpod.org) - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
+* [Codefiction](http://codefiction.tech) - Podcast series about software development, technology  & tools that surrounds it and Turkish software development scene.
+
+
 ## In Finnish
 
 * [Frontend Friday](http://frontendfriday.fi/) – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
